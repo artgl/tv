@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="RT America-US" tvg-name="RT America-US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/480px-Russia-today-logo.svg.png" group-title="News",RT America
-https://rt-usa-gd.secure2.footprint.net/1105_800Kb.m3u8
+https://rt-usa-gd.secure2.footprint.net/1105_1600Kb.m3u8
 #EXTINF:-1 tvg-id="Camera1" tvg-name="Camera1" tvg-language="English" group-title="News",Camera1
 http://10.8.0.204:8080/video
 #EXTINF:-1 tvg-id="Camera2" tvg-name="Camera2" tvg-language="English" group-title="News",Camera2
